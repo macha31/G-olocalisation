@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Geolocalisation</string>
+    <string name="apiKey">ea93bab9d03e5fd8178c575614846921</string>
 </resources>
